@@ -1,2 +1,2 @@
-# monster-slayer-game
+# Monster slayer game
 Basic online game made in vue js
